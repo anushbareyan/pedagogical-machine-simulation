@@ -7,4 +7,6 @@ This project is a pedagogical tool designed to simulate the motion of a system o
 - **Acceleration Calculation:** Computes the accelerations of three masses based on provided mass values and friction coefficients.
 - **Position Simulation:** Tracks the positions of each mass over time as they move under the influence of their calculated accelerations.
 - **Visualization:** Generates scatter plots with arrows to visually represent the movement paths of the bodies, enhancing the understanding of their dynamic interactions.
+
+
 ![image](https://github.com/anushbareyan/pedagogical-machine-simulation/assets/122983285/fefd0d67-221f-4b9e-9e10-affb231be5f5)
