@@ -9,4 +9,5 @@ This project is a pedagogical tool designed to simulate the motion of a system o
 - **Visualization:** Generates scatter plots with arrows to visually represent the movement paths of the bodies, enhancing the understanding of their dynamic interactions.
 
 
-![image](https://github.com/anushbareyan/pedagogical-machine-simulation/assets/122983285/fefd0d67-221f-4b9e-9e10-affb231be5f5)
+![image](https://github.com/anushbareyan/pedagogical-machine-simulation/assets/122983285/fefd0d67-221f-4b9e-9e10-affb231be5f5) ![image](https://github.com/anushbareyan/pedagogical-machine-simulation/assets/122983285/7518b553-ac70-4cd8-b104-6eb7abffb143)
+
